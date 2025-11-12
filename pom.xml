@@ -237,6 +237,7 @@
     <woodstox.version>5.4.0</woodstox.version>
     <zookeeper.version>3.8.4</zookeeper.version>
     <zstd-jni.version>1.5.7-6</zstd-jni.version>
+    <sonar.organization>vikrant1717</sonar.organization>
   </properties>
 
   <dependencyManagement>
